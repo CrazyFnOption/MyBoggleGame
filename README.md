@@ -1,10 +1,10 @@
 
 # MyBoggleGame
-some practices in Javax.Swing
+some practices in Javax.Swing and Tries
 =======
 This is the repository about practicing in Javax.Swing
 
-The algorithm is Ties and DFS.
+The algorithm is Ties and DFS. My blog about this is http://wsx1128.cn/2019/09/28/BoggleSolver/ .
 
 The Game called BoggleGame would test and help you find more English word.
 
